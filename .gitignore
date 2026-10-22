@@ -1,0 +1,9 @@
+
+# Visual Studio ajutised failid
+.vs/
+*.user
+*.suo
+
+# Kompileerimise failid
+bin/
+obj/
